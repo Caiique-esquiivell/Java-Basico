@@ -1,0 +1,34 @@
+package Implementation;
+
+public class SupermarketArray  implements supermaket{
+
+	private final String[] itens;
+	
+	private int lastindex;
+	
+	public  SupermarketArray(final int size) {
+		itens = new String[size];
+		lastindex = -1;
+	}
+	
+	
+	
+	@Override
+	public void add(String item) {
+		
+	}
+
+	@Override
+	public void print() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void delete(int index) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+}
