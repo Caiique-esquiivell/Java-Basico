@@ -1,7 +1,5 @@
-INDEX VERSION 1.134+C:\Users\ecaiq\OneDrive\Documentos\Java-basico\Exercicios\.metadata\.plugins\org.eclipse.jdt.core
-2896117085.index
-3803894794.index
-2231415645.index
+INDEX VERSION 1.134+C:\Users\ecaiq\OneDrive\Documentos\Java-Basico\Exercicios\.metadata\.plugins\org.eclipse.jdt.core
+1091601277.index
 230286539.index
 868421475.index
 847909463.index
