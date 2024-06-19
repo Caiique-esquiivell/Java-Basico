@@ -1,2 +1,9 @@
-package Excepetions;public class BusinessException {
+package Excepetions;
+
+public class BusinessException extends RuntimeException {
+    private static final long serialVersionUID = 1L;
+
+    public BusinessException(String msg) {
+            super(msg);
+        }
 }
